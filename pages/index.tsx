@@ -15,7 +15,7 @@ const Home = ({
   }[];
 }) => {
   return (
-    <div>
+    <div className={homeStyles.container}>
       <Head>
         <title>Hyeseung Lee</title>
       </Head>
